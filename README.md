@@ -1,53 +1,35 @@
-# 👋 Welcome to My GitHub, I'm Mouad Ben Mekki!
+# 👋 Hi, I'm Mouad Ben Mekki!  
 
-🎯 **Mission:** Empowering innovation, delivering sustainable tech solutions, and building a better tomorrow with code.
+🎯 **Mission:** Innovating with code to solve problems, inspire change, and build a better future.  
 
 ---
 
 ## 🌟 About Me  
 
-I'm a passionate **Software Developer** and **Tech Enthusiast** with a flair for **problem-solving** and a drive for **excellence**. My journey in tech began over five years ago, and since then, I've been crafting **modern applications**, optimizing **architectures**, and exploring the latest trends in **AI** and **new technologies**.
+I'm a **Software Developer** and **Tech Enthusiast** with 5+ years of experience building modern, impactful applications.  
+I specialize in **PHP (Laravel)**, **React**, **Django**, and **AI solutions** while staying inspired by environmental and educational projects.  
 
-🔹 **Hometown:** Middle Atlas, Morocco 🇲🇦  
-🔹 **Specialties:** PHP (Laravel) , Python , React, Next.js, Django, FastAPI  
-🔹 **Tools & Tech:** Chakra UI, React Native, SCSS, MySQL, Spring Boot  
-🔹 **Passion Projects:** Environmental awareness, AI solutions, e-learning platforms  
-
----
-
-## 💼 My Services  
-
-🚀 I help businesses and individuals bring their ideas to life with:  
-
-- **Web Development:** Modern, responsive, and ergonomic websites.  
-- **Mobile App Development:** Powerful apps with React Native.  
-- **E-learning Solutions:** From architecture to optimization and feature-rich implementations.  
-- **Custom Frameworks:** Simplified solutions with a focus on security and templating.  
-- **AI & Automation:** Smart applications for a smarter world.  
+🔹 From **Middle Atlas, Morocco 🇲🇦**  
+🔹 Passionate about **sustainability**, **creativity**, and **progress**  
 
 ---
 
-## ✨ My Vision  
+## 💼 What I Do  
 
-I believe in the power of technology to drive **sustainability**, **creativity**, and **progress**. My mission is to create solutions that don't just meet expectations but redefine them. Whether it's a scalable backend or an intuitive user interface, I focus on delivering **impactful**, **long-lasting** results.
-
----
-
-## 🛠️ My Open Source Contributions  
-
-- **[ML Movies Recommendation](https://github.com/BenMekkiMouad/movies-recommendation-system):** Introduction to ML via a Simplified movies recommendation system.
+| ![Data Analysis](https://cdn-icons-png.flaticon.com/512/3090/3090011.png) | ![AI Solutions](https://cdn-icons-png.flaticon.com/512/5278/5278402.png) | ![Code & Infra Optimization](https://cdn-icons-png.flaticon.com/512/9850/9850812.png) |
+|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
+| **Data Analysis**: Turning raw data into actionable insights             | **AI Solutions**: Empowering systems with intelligent automation       | **Optimization**: Enhancing performance for scalable, secure systems                          |
 
 ---
 
-## 🌱 Let's Build the Future Together  
+## 🌱 Open Source  
 
-I'm always open to exciting opportunities, collaborations, or just a friendly chat. If you're looking for someone who can transform ideas into reality or tackle challenges with creativity and precision—**let's connect!**  
-
-📫 **Email:** [benmekkimouad@gmail.com](mailto:benmekkimouad@gmail.com)  
-🔗 **Portfolio:** [benmekkimouad.vercel.app](https://benmekkimouad.vercel.app)  
-💼 **LinkedIn:** [Mouad Ben Mekki](https://www.linkedin.com/in/mouad-ben-mekki)  
+🔗 **[ML Movies Recommendation](https://github.com/BenMekkiMouad/movies-recommendation-system)**: Simplified intro to machine learning  
 
 ---
 
-### “Code is not just lines, it’s a story, a solution, and sometimes, a revolution.”  
-Let's write that story together! 🚀
+📫 **Get in Touch**  
+📧 [benmekkimouad@gmail.com](mailto:benmekkimouad@gmail.com)  
+🌐 [Portfolio](https://benmekkimouad.vercel.app) | [LinkedIn](https://www.linkedin.com/in/mouad-ben-mekki)  
+
+### 🚀 “Code is a story of change—let's write it together!”
