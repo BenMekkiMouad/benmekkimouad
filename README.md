@@ -10,10 +10,31 @@ I specialize in **PHP (Laravel)**, **React**, **Django**, and **AI solutions** w
 
 ## 💼 What I Do  
 
-| ![Data Analysis](https://cdn-icons-png.flaticon.com/512/3090/3090011.png) | ![AI Solutions](https://cdn-icons-png.flaticon.com/512/5278/5278402.png) | ![Code & Infra Optimization](https://cdn-icons-png.flaticon.com/512/9850/9850812.png) |
-|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
-| **Data Analysis**: Turning raw data into actionable insights             | **AI Solutions**: Empowering systems with intelligent automation       | **Optimization**: Enhancing performance for scalable, secure systems                          |
-
+<table>
+<tr>
+  <td align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/3090/3090011.png" width="80" alt="Data Analysis"/>
+    <br>
+    <b>Data Analysis</b>
+    <br>
+    Turning raw data into actionable insights
+  </td>
+  <td align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" width="80" alt="AI Solutions"/>
+    <br>
+    <b>AI Solutions</b>
+    <br>
+    Empowering systems with intelligent automation
+  </td>
+  <td align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/9850/9850812.png" width="80" alt="Code & Infra Optimization"/>
+    <br>
+    <b>Optimization</b>
+    <br>
+    Enhancing performance for scalable, secure systems
+  </td>
+</tr>
+</table>
 ---
 
 ## 🌱 Open Source  
