@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Mouad Ben Mekki!  
 
-🎯 **Mission:** Innovating with code to solve problems, inspire change, and build a better future.  
-
----
-
-## 🌟 About Me  
-
 I'm a **Software Developer** and **Tech Enthusiast** with 5+ years of experience building modern, impactful applications.  
 I specialize in **PHP (Laravel)**, **React**, **Django**, and **AI solutions** while staying inspired by environmental and educational projects.  
 
