@@ -13,21 +13,21 @@ I specialize in **PHP (Laravel)**, **React**, **Django**, and **AI solutions** w
 <table>
 <tr>
   <td align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/3090/3090011.png" width="80" alt="Data Analysis"/>
+    <img src="https://www.svgrepo.com/show/530445/data-analysis.svg" width="80" alt="Data Analysis"/>
     <br>
     <b>Data Analysis</b>
     <br>
     Turning raw data into actionable insights
   </td>
   <td align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" width="80" alt="AI Solutions"/>
+    <img src="https://www.svgrepo.com/show/530444/availability.svg" width="80" alt="AI Solutions"/>
     <br>
     <b>AI Solutions</b>
     <br>
     Empowering systems with intelligent automation
   </td>
   <td align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/9850/9850812.png" width="80" alt="Code & Infra Optimization"/>
+    <img src="https://www.svgrepo.com/show/530456/host-record.svg" width="80" alt="Code & Infra Optimization"/>
     <br>
     <b>Optimization</b>
     <br>
