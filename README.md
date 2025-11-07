@@ -4,7 +4,7 @@ My sweet spot? Diving deep into code deleting lines and refactoring .
 
 ---
 
-## 💼 What I Do  
+## What I Do  
 
 <table>
 <tr>
@@ -43,4 +43,3 @@ My sweet spot? Diving deep into code deleting lines and refactoring .
 📧 [benmekkimouad@gmail.com](mailto:benmekkimouad@gmail.com)  
 🌐 [Portfolio](https://benmekkimouad.vercel.app) | [LinkedIn](https://www.linkedin.com/in/mouad-ben-mekki)  
 
-### 🚀 “Code is a story of change—let's write it together!”
