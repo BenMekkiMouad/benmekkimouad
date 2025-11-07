@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Mouad Ben Mekki!  
-
-I'm a **Software Developer** and **Tech Enthusiast** with 5+ years of experience building modern, impactful applications.  
-I specialize in **PHP (Laravel)**, **React**, **Django**, and **AI solutions** while staying inspired by environmental and educational projects.  
-
-🔹 From **Middle Atlas, Morocco 🇲🇦**  
-🔹 Passionate about **sustainability**, **creativity**, and **progress**  
+#  Hey there! 👋 I'm Mouad Ben Mekki.
+I've spent the last 5+ years as a software developer and total tech geek, crafting apps that actually make a difference in people's lives.
+My sweet spot? Diving deep into code deleting lines and refactoring .
 
 ---
 
