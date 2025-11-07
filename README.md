@@ -1,5 +1,5 @@
 #  Hey there! 👋 I'm Mouad Ben Mekki.
-I've spent the last 5+ years as a software developer and total tech geek, crafting apps that actually make a difference in people's lives.
+I've spent the last 5+ years as a software developer, crafting apps that actually make a difference in people's lives.
 My sweet spot? Diving deep into code deleting lines and refactoring .
 
 ---
